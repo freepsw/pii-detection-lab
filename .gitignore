@@ -1,0 +1,7 @@
+# OS / 에디터 부산물
+.DS_Store
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
